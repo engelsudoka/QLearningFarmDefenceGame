@@ -29,3 +29,4 @@ DQN ALGORITHM:
    Experience replay buffer (10 000 transitions)
    Separate target network (synced every 100 steps)
    Epsilon-greedy exploration, Adam optimiser (lr = 0.001)
+![FDG](https://github.com/user-attachments/assets/dcff70a5-5cae-4b8e-927b-13d7ccd4debb)
