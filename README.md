@@ -36,3 +36,5 @@ Performance plots of the trainedAI-agent.
 
 ![Performace_plots](https://github.com/user-attachments/assets/0abf34ab-2c92-477c-be1c-4c747b8cdf2d)
 
+DAMAGE WILD BOARS CAUSE ON FARMS:
+!(https://m.youtube.com/shorts/Tz3yxQw-hLU)
